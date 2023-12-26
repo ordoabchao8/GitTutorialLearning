@@ -6,3 +6,6 @@ body {
     color: navy;
     margin-left: 20px;
     }
+.cat {
+    width:100%; max-width:960px;
+}
